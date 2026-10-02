@@ -382,3 +382,14 @@ Fake-review rule/model analysis
 Flask UI
    ↓
 Result
+Review
+   ↓
+Hugging Face / Transformers model
+   ↓
+Sentiment prediction
+   ↓
+Fake-review rule/model analysis
+   ↓
+Flask UI
+   ↓
+Result

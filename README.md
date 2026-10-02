@@ -361,35 +361,5 @@ Review Intelligence
 AI Prototype
 Text Classification
 Data Analytics
-⚠️ Ek cheez abhi karni zaroori hai
 
-Tumhara UI prototype achha ban gaya hai, lekin SWYNEX ke task ke exact wording mein “model, library, or public AI API” maanga gaya hai.
 
-Tumhare current code mein:
-
-Rule-based NLP ≠ actual AI model/library/API integration
-
-Isliye main suggest karunga ki isi existing Flask project ko waste na karke, ismein ek actual NLP model/library integrate karein. For example:
-
-Review
-   ↓
-Hugging Face / Transformers model
-   ↓
-Sentiment prediction
-   ↓
-Fake-review rule/model analysis
-   ↓
-Flask UI
-   ↓
-Result
-Review
-   ↓
-Hugging Face / Transformers model
-   ↓
-Sentiment prediction
-   ↓
-Fake-review rule/model analysis
-   ↓
-Flask UI
-   ↓
-Result
